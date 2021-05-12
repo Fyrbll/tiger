@@ -1,0 +1,18 @@
+/* intended as a test for just the lexer */
+
+"This bed cover has \"square\" and \"diamond\" patterns"
+
+"My portable backup battery is black and rectangular"
+
+"hello\n\t\065\125\\goodbye"
+
+"no formfeed"
+
+"\^@ \^A \^Z \^[ \^\ \^] \^^ \^_"
+
+"this \
+\is \
+\my \
+\name"
+
+/* this is a strange comment /* hjfsa */ jfkaj */ */
